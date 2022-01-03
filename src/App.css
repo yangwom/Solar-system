@@ -1,9 +1,9 @@
-* {
+/* * {
   margin: 0px;
   padding: 0px;
-  scroll-behavior: smooth;
-  color: white;
   background-image: url(images/background.png);
+  color: white;
+  scroll-behavior: smooth;
   box-sizing: 100%;
 }
 
@@ -60,7 +60,7 @@ li[data-testid="mission-card"] {
 h3[data-testid="mission-name"] {
   width: 100%;
   border: solid 1px white;
-  border-radius: 10px ;
+  border-radius: 10px;
   margin-bottom: 10px;
   color: rgb(0, 255, 234);
 }
@@ -86,4 +86,4 @@ ul {
   align-content: space-around;
   flex-flow: row wrap;
   width: 100%;
-}
+} */
